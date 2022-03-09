@@ -1,0 +1,15 @@
+C:\Users\noid3\source\repos\np_Task5\cs_Client\bin\Debug\net6.0\cs_Client.exe
+C:\Users\noid3\source\repos\np_Task5\cs_Client\bin\Debug\net6.0\cs_Client.deps.json
+C:\Users\noid3\source\repos\np_Task5\cs_Client\bin\Debug\net6.0\cs_Client.runtimeconfig.json
+C:\Users\noid3\source\repos\np_Task5\cs_Client\bin\Debug\net6.0\cs_Client.dll
+C:\Users\noid3\source\repos\np_Task5\cs_Client\bin\Debug\net6.0\ref\cs_Client.dll
+C:\Users\noid3\source\repos\np_Task5\cs_Client\bin\Debug\net6.0\cs_Client.pdb
+C:\Users\noid3\source\repos\np_Task5\cs_Client\obj\Debug\net6.0\cs_Client.csproj.AssemblyReference.cache
+C:\Users\noid3\source\repos\np_Task5\cs_Client\obj\Debug\net6.0\cs_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noid3\source\repos\np_Task5\cs_Client\obj\Debug\net6.0\cs_Client.AssemblyInfoInputs.cache
+C:\Users\noid3\source\repos\np_Task5\cs_Client\obj\Debug\net6.0\cs_Client.AssemblyInfo.cs
+C:\Users\noid3\source\repos\np_Task5\cs_Client\obj\Debug\net6.0\cs_Client.csproj.CoreCompileInputs.cache
+C:\Users\noid3\source\repos\np_Task5\cs_Client\obj\Debug\net6.0\cs_Client.dll
+C:\Users\noid3\source\repos\np_Task5\cs_Client\obj\Debug\net6.0\ref\cs_Client.dll
+C:\Users\noid3\source\repos\np_Task5\cs_Client\obj\Debug\net6.0\cs_Client.pdb
+C:\Users\noid3\source\repos\np_Task5\cs_Client\obj\Debug\net6.0\cs_Client.genruntimeconfig.cache
